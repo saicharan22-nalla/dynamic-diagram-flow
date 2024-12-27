@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-flow-renderer": "^10.3.17",
+    "react-hooks": "^1.0.1"
+  }
+}
